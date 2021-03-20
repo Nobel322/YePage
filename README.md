@@ -1,7 +1,7 @@
 # Contribute
 
 
-</> bruhh.js - 0.0.fuckyou
+</> YePage - 0.0.fuckyou
 ======================
 
 Page: [https://nobel322.github.io/YePage/](https://nobel322.github.io/YePage/)
