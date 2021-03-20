@@ -9,9 +9,9 @@ const { minify } = require('uglify-es');
 const pkg = require('./package.json');
 
 const entry = './src/index.js';
-const moduleName = 'bruhh';
-const destDefault = './bruhh.js';
-const destMinify = './bruhh.min.js';
+const moduleName = 'YePage';
+const destDefault = './YePage.js';
+const destMinify = './YePage.min.js';
 const pluginsDefault = [babel(babelrc.default())];
 const external = Object.keys(pkg.dependencies);
 const format = 'umd';
