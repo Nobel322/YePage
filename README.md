@@ -13,5 +13,5 @@ install
 Install with npm:
 
 ```sh
-npm install YePage.js
+npm install YePage
 ```
