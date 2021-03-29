@@ -1,7 +1,7 @@
 # Contribute
 
 
-</> YePage - 0.0.fuckyou
+</> YePage
 ======================
 
 Page: [https://nobel322.github.io/YePage/](https://nobel322.github.io/YePage/)
