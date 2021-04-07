@@ -1,9 +1,12 @@
 body {
   margin: 0;
-  background-color: #000010; /* Change the color of the whole page */
+  background-color: #262626; /* Change the color of the whole page */
+  background-image:linear-gradient(#262626 25%,#6b4e71 60%);
+  min-height: 150vh;
+  overflow: hidden;
   color: white;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  display: grid;
+  display: grid; 
   
 }
 
@@ -116,7 +119,7 @@ h1 {
 #playerBottom {
   margin-bottom: 25px;
   padding: 10px;
-  background-color: #000010;
+  background-color: transparent;
   right: 50px;
 }
 
