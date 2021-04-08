@@ -1,13 +1,12 @@
 body {
   margin: 0;
   background-color: #262626; /* Change the color of the whole page */
-  background-image:linear-gradient(#262626 25%,#6b4e71 60%);
-  min-height: 150vh;
-  overflow: hidden;
+  background-image:linear-gradient(#262626 15%,#6b4e71 40%);
+  min-height: 200vh;
+  overflow-y: hidden;
   color: white;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   display: grid; 
-  
 }
 
 h3 {
